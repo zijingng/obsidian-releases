@@ -9645,5 +9645,12 @@
     "author": "luxmargos",
     "description": "You can make the background of cards transparent in the Canvas",
     "repo": "luxmargos/obsidian-canvas-card-bg-remover"
+  },
+  {
+    "id": "bilibili-embedded-player",
+    "name": "Bilibili Embedded Player",
+    "author": "Zijing Ng",
+    "description": "This plugin automatically convert Bilibili video links to embedded players.",
+    "repo": "zijingng/obsidian-bilibili-embedded-player"
   }
 ]
